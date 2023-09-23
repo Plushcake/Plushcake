@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://media.giphy.com/media/W2KZgZo97jtC313Hn9/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejRrdHdmZ3o2YjlvNzNldzV1cXZ1c3B4Y3Fwb2x5MW1rcGRhOHI4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1GEATImIxEXVR79Dhk/giphy.gif"/>
 </div>
 
 ### Здравствуйте. Меня зовут Александр. Я инженер по тестированию.
