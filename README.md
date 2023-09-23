@@ -30,7 +30,8 @@
 * [Docker и Docker Compose](https://github.com/Plushcake/Diploma-project-on-the-profession-Test-Engineer-.git)
 
 #### Сертификаты и дипломы:
-[](https://netology.ru/sharing/4e7f2db031f70ba646f3b7ab173740fd?utm_source=social&utm_campaign=certificate_lms ) 
+[Ручное тестирование веб-приложений](https://netology.ru/backend/api/user/programs/23165/pdf_certificate) 
+[Git — система контроля версий]()
 
 #### Рекомендации:
 
