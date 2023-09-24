@@ -20,8 +20,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://vjoy.cc/wp-content/uploads/2020/03/android_23_05081752.png" title="UIAutomator" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://developer.android.com/static/images/training/testing/espresso.png" title="AndroidEspresso" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://appium.io/docs/en/2.1/assets/images/appium-logo-white.png" title="Appium" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://www.cypress.io/_astro/navbar-brand.0d71ff96.svg" title="Cypress" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="IntelliJ" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
