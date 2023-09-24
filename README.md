@@ -27,10 +27,38 @@
 </div>
 
 ## Выполненные проекты:
-##### Дипломная работа профессии Инженер по тестированию: 
+
+#### Дипломная работа профессии Инженер по тестированию: 
 * [Мобильное приложение "Мобильный Хоспис"](https://github.com/Plushcake/Diploma-project-on-the-profession-Test-Engineer-)
-##### Подготовка приложение к тестированию на СУБД PostgreSQL:
-* [Docker и Docker Compose](https://github.com/Plushcake/Diploma-project-on-the-profession-Test-Engineer-.git)
+  
+  *Используемые инструменты: Android Studio Dolphin, Android Espresso, Faker.*
+
+#### Appium. Кроссплатформенная мобильная автоматизация тестирования:
+
+* [Appium](https://github.com/Plushcake/Appium)
+
+  *Используемые технологии: Android Studio Dolphin, Appium Inspecter, Appium Server GUI.*
+
+#### UIAutomator. Автоматизация тестирования Android:
+
+* [UIAutomator](https://github.com/Plushcake/Automator)
+
+  *Используемые технологии: Android Studio Dolphin, Библиотека UIAutomator*
+
+  
+#### Подготовка приложение к тестированию на СУБД PostgreSQL:
+
+* [Docker и Docker Compose](https://github.com/Plushcake/Docker)
+
+  *Используемые инструменты: Docker Desktop, Терминал Windows.*
+
+#### Cypress:
+
+* [Cypress часть 1](https://github.com/Plushcake/7.6.-Cypress-1)
+  
+* [Cypress часть 2](https://github.com/Plushcake/-7.7.-Cypress-2)
+
+  *Используемые инструменты: Фреймворк Cypress*
 
 ## Сертификаты и дипломы:
 * [Ручное тестирование веб-приложений](https://github.com/Plushcake/Certificates/blob/main/%D0%A0%D1%83%D1%87%D0%BD%D0%BE%D0%B5%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%B5%D0%B1-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9.pdf) 
@@ -45,6 +73,9 @@
 
 ## Рекомендации:
 
+
 ## О себе:
+Мне понравилась фраза Стива Джобса
 
 ## Мои контакты:
+nikkolo.makeawelli@gmail.com
