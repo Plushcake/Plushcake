@@ -17,22 +17,22 @@
 
 #### Языки программирования:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Plushcake&layout=pie&theme=vision-friendly-dark&langs_count=10&hide=php,kotlin,hack,scss,dockerfile,plsql,batchfile)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Plushcake&layout=pie&theme=vision-friendly-white&langs_count=10&hide=php,kotlin,hack,scss,dockerfile,plsql,batchfile)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Инструменты:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://vjoy.cc/wp-content/uploads/2020/03/android_23_05081752.png" title="UIAutomator" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://developer.android.com/static/images/training/testing/espresso.png" title="AndroidEspresso" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://appium.io/docs/en/2.1/assets/images/appium-logo-white.png" title="Appium" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://www.cypress.io/_astro/navbar-brand.0d71ff96.svg" title="Cypress" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="IntelliJ" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="AndroidStudio" width="40" height="40"/>&nbsp;
+  <img src="https://developer.android.com/static/images/training/testing/espresso.png" title="AndroidEspresso" alt="AndroidEspresso" width="40" height="40"/>&nbsp;
+  <img src="https://appium.io/docs/en/2.1/assets/images/appium-logo-white.png" title="Appium" alt="Appium" width="40" height="40"/>&nbsp;
+  <img src="https://www.cypress.io/_astro/navbar-brand.0d71ff96.svg" title="Cypress" alt="Cypress" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="IntelliJ" alt="IntelliJ" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/UiAutomator-green?style=for-the-badge" alt="UiAutomator" title="UiAutomator"/>
 </div>
 
 ## Выполненные проекты:
