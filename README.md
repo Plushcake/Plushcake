@@ -35,22 +35,53 @@
   <img src="https://img.shields.io/badge/UiAutomator-green?style=for-the-badge" alt="UiAutomator" title="UiAutomator"/>
 </div>
 
+## Ключевые навыки:
+
+* Ручное тестирование, написание тест-кейсов, тест-дизайн.
+
+* Тестирование веб-приложений,  API, понимание клиент-серверного взаимодействия, работа с DevTools.
+
+* Понимание работы баз данных, написание SQL-запросов.
+
+* Работа с Git, одновременная работа с несколькими репозиториями.
+
+* Автотестирование веб-приложений на Java с использованием JUnit, Selenium, Selenide.
+
+* Мобильное тестирование Android-приложений с помощью Android Studio и Espresso.
+
+* Автоматизация тестирования Frontend на JavaScript с помощью Puppeteer, Playwright, Cypress.
+
+* Знание различных видов виртуализации и контейнеризации, работа с Docker и Docker Compose 
+
+
 ## Выполненные проекты:
 
 #### Дипломная работа профессии Инженер по тестированию: 
 * [Мобильное приложение "Мобильный Хоспис"](https://github.com/Plushcake/Diploma-project-on-the-profession-Test-Engineer-)
   
-  *Используемые инструменты: Android Studio Dolphin, Android Espresso, Faker.*
+  *Приложение даёт функционал по работе с претензиями хосписа и включает в себя:*
+  
+  * *Информацию о претензиях и функционал для работы с ними.*
+  
+  * *Новостную сводку хосписа.*
+  
+  * *Тематические цитаты.*
+  
+*Используемые инструменты: Android Studio Dolphin, Android Espresso, Faker.*
 
 #### Appium. Кроссплатформенная мобильная автоматизация тестирования:
 
 * [Appium](https://github.com/Plushcake/Appium)
+ 
+  *Настройка и выполнение задачи с помощью фреймворка Appium.*
 
   *Используемые технологии: Android Studio Dolphin, Appium Inspecter, Appium Server GUI.*
 
 #### UIAutomator. Автоматизация тестирования Android:
 
 * [UIAutomator](https://github.com/Plushcake/Automator)
+
+  *Выполнение задания с помощью UIAutomator.*
 
   *Используемые технологии: Android Studio Dolphin, Библиотека UIAutomator*
 
@@ -59,13 +90,17 @@
 
 * [Docker и Docker Compose](https://github.com/Plushcake/Docker)
 
+  *Тестирование приложение на СУБД PostgreSQL.*
+
   *Используемые инструменты: Docker Desktop, Терминал Windows.*
 
-#### Cypress:
+#### Cypress фреймворк для автотестов:
 
 * [Cypress часть 1](https://github.com/Plushcake/7.6.-Cypress-1)
   
 * [Cypress часть 2](https://github.com/Plushcake/-7.7.-Cypress-2)
+
+  *Установка, настройка и выполнение задание с помощью фрейворка Cypress.*
 
   *Используемые инструменты: Фреймворк Cypress*
 
@@ -84,7 +119,6 @@
 
 
 ## О себе:
-Мне понравилась фраза Стива Джобса
 
 ## Мои контакты:
 nikkolo.makeawelli@gmail.com
