@@ -33,6 +33,7 @@
   <img src="https://www.cypress.io/_astro/navbar-brand.0d71ff96.svg" title="Cypress" alt="Cypress" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="IntelliJ" alt="IntelliJ" width="40" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/UiAutomator-green?style=for-the-badge" alt="UiAutomator" title="UiAutomator"/>
+  <img src="https://appium.io/docs/en/2.1/assets/images/appium-logo-horiz.png" title="Appium" alt="Appium" width="40" height="40"/>&nbsp;/>
 </div>
 
 ## Ключевые навыки:
@@ -48,6 +49,8 @@
 * Автотестирование веб-приложений на Java с использованием JUnit, Selenium, Selenide.
 
 * Мобильное тестирование Android-приложений с помощью Android Studio и Espresso.
+  
+* Тестирования пользовательского интерфейса мобильных приложений с помощью фреймворка Appium. 
 
 * Автоматизация тестирования Frontend на JavaScript с помощью Puppeteer, Playwright, Cypress.
 
