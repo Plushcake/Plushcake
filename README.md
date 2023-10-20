@@ -32,8 +32,8 @@
   <img src="https://appium.io/docs/en/2.1/assets/images/appium-logo-white.png" title="Appium" alt="Appium" width="40" height="40"/>&nbsp;
   <img src="https://www.cypress.io/_astro/navbar-brand.0d71ff96.svg" title="Cypress" alt="Cypress" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="IntelliJ" alt="IntelliJ" width="40" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/UiAutomator-green?style=for-the-badge" alt="UiAutomator" title="UiAutomator"/>
-  <img src="https://appium.io/docs/en/2.1/assets/images/appium-logo-horiz.png" title="Appium" alt="Appium" width="40" height="40"/>&nbsp;/>
+  <img src="https://img.shields.io/badge/UiAutomator-green?style=for-the-badge" alt="UiAutomator" title="UiAutomator"/>&nbsp;
+  <img src="https://appium.io/docs/en/2.1/assets/images/appium-logo-horiz.png" title="Appium" alt="Appium" width="100" height="40"/>&nbsp;
 </div>
 
 ## Ключевые навыки:
